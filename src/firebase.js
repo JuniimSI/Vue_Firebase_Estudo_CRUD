@@ -1,7 +1,7 @@
 import { initializeApp } from 'firebase';
 
 const app = initializeApp({
-    apiKey: "AIzaSyD1NRsdlK10pRzANzm7Yd1PHzMi8gplyXI",
+    apiKey: "API_KEY",
     authDomain: "vue-firebase-100fd.firebaseapp.com",
     databaseURL: "https://vue-firebase-100fd.firebaseio.com",
     projectId: "vue-firebase-100fd",
